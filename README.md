@@ -2,7 +2,7 @@
 
 Heres a cyber blog where I post sometimes: https://medium.com/@a-flama
 
-Cypher Project ->  https://github.com/a-flama/Python-Cypher
+Cypher Project: https://github.com/a-flama/Python-Cypher
 
 Wireshark Analysis: https://github.com/a-flama/Catch-me-if-you-can-
 
