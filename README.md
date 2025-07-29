@@ -8,10 +8,10 @@ Wireshark Analysis: https://github.com/a-flama/Catch-me-if-you-can-
 
 HIDS (AuditD): https://github.com/a-flama/Let-s-wget-This-Bread
 
-Attack utilizing Bash Scripting: https://github.com/a-flama/Off-Limits/tree/main
+Attack utilizing Bash Scripting: https://github.com/a-flama/Off-Limits
 
 Dos mitigation rule configuration: https://github.com/a-flama/DOSDOSDOS
 
-Splunk Data Analysis: https://github.com/a-flama/SIEMsational-CTF/tree/main
+Splunk Data Analysis: https://github.com/a-flama/SIEMsational-CTF
 
-Incident response utilizing Catalyst & Splunk: 
+Incident response utilizing Catalyst & Splunk: https://github.com/a-flama/CSIRT-Pathcode
