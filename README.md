@@ -8,7 +8,7 @@ Wireshark Analysis: https://github.com/a-flama/Catch-me-if-you-can-
 
 HIDS (AuditD): https://github.com/a-flama/Let-s-wget-This-Bread
 
-Attack utilizing Bash Scripting:
+Attack utilizing Bash Scripting: https://github.com/a-flama/Off-Limits/blob/main/README.md
 
 Dos mitigation rule configuration:
 
