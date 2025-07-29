@@ -10,7 +10,7 @@ HIDS (AuditD): https://github.com/a-flama/Let-s-wget-This-Bread
 
 Attack utilizing Bash Scripting: https://github.com/a-flama/Off-Limits/blob/main/README.md
 
-Dos mitigation rule configuration:
+Dos mitigation rule configuration: https://github.com/a-flama/DOSDOSDOS
 
 Splunk Data Analysis: 
 
