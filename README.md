@@ -6,7 +6,7 @@ Cypher Project: https://github.com/a-flama/Python-Cypher
 
 Wireshark Analysis: https://github.com/a-flama/Catch-me-if-you-can-
 
-HIDS (AuditD): 
+HIDS (AuditD): https://github.com/a-flama/Let-s-wget-This-Bread
 
 Attack utilizing Bash Scripting:
 
