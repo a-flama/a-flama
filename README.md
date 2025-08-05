@@ -14,6 +14,8 @@ Splunk Data Analysis: https://github.com/a-flama/SIEMsational-CTF
 
 Incident response utilizing Catalyst & Splunk: https://github.com/a-flama/CSIRT-Pathcode
 
+Network Traffic Analysis and Incident Response: 
+
 ## W.I.P
 
 Cypher Project: https://github.com/a-flama/Python-Cypher
