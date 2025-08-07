@@ -14,7 +14,7 @@ Splunk Data Analysis: https://github.com/a-flama/SIEMsational-CTF
 
 Incident response utilizing Catalyst & Splunk: https://github.com/a-flama/CSIRT-Pathcode
 
-Network Traffic Analysis and Incident Response utilizing wireshark, splunk, and aws s3: Need to upload
+Network Traffic Analysis and Incident Response utilizing Wireshark, Splunk, and AWS s3: Need to upload
 
 ## W.I.P
 
