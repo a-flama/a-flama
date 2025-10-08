@@ -19,3 +19,5 @@ Network Traffic Analysis and Incident Response utilizing Wireshark, Splunk, and 
 ## W.I.P
 
 Cypher Project: https://github.com/a-flama/Python-Cypher
+
+SecureOPs Platform Build: https://github.com/a-flama/SecureOps
