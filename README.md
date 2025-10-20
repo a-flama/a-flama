@@ -20,4 +20,4 @@ Network Traffic Analysis and Incident Response utilizing Wireshark, Splunk, and 
 
 Cypher Project: https://github.com/a-flama/Python-Cypher
 
-Frontier Model Link Scanner: https://github.com/a-flama/SecureOps
+Frontier Model Link Scanner: https://github.com/a-flama/Frontier-Link-Scanner
