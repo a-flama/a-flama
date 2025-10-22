@@ -2,6 +2,8 @@
 
 Heres a cyber blog where I post sometimes: https://medium.com/@a-flama
 
+## Security Analysis Stuff
+
 Wireshark Analysis: https://github.com/a-flama/Catch-me-if-you-can-
 
 HIDS (AuditD): https://github.com/a-flama/Let-s-wget-This-Bread
@@ -16,8 +18,10 @@ Incident response utilizing Catalyst & Splunk: https://github.com/a-flama/CSIRT-
 
 Network Traffic Analysis and Incident Response utilizing Wireshark, Splunk, and AWS s3: Need to upload
 
-## W.I.P
+## Security Engineering Projects
 
-Cypher Project: https://github.com/a-flama/Python-Cypher
+Cypher Project: https://github.com/a-flama/Python-Cypher [discontinued]
 
-Frontier Model Link Scanner: https://github.com/a-flama/Frontier-Link-Scanner
+Frontier Model Link Scanner (Chrome Extension: https://github.com/a-flama/Frontier-Link-Scanner
+
+"secure-by-default" GitHub Actions starter workflow for a simple Web3 application: https://github.com/a-flama/SecureByDefault/tree/main
